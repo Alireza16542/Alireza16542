@@ -1,4 +1,4 @@
-- 👋 Hi, I’m alireza ebadii
+- 👋 Hi, I’m alireza
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming
 - 💞️ I’m no looking to collaborate on
